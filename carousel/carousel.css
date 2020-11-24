@@ -8,6 +8,34 @@ body {
   color: #5a5a5a;
 }
 
+.profissional {
+  height: 150px;
+}
+
+.depoimentos {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.imgbody {
+  height: 500px;
+}
+
+.lead {
+  margin: 40px;
+}
+
+.slide {
+  font-weight: 600;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: gray;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -64,6 +92,7 @@ body {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem;
+  margin: 40px;
 }
 
 
